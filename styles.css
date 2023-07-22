@@ -1,5 +1,5 @@
 body{
-    backround: black;
+    background-color: black;
     a:hover{
         border:1px solid green;  
        }
