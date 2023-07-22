@@ -1,4 +1,6 @@
 body{
     backround: black;
-    border:1px solid red;
+    a:hover{
+        border:1px solid red;  
+       }
 }
