@@ -1,0 +1,2 @@
+# maguiretheorem
+maguire theorem
