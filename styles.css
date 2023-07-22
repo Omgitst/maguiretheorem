@@ -3,4 +3,5 @@ body{
     a:hover{
         border:1px solid green;  
        }
+    text-emphasis-color:white;
 }
