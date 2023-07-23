@@ -3,6 +3,6 @@ body{
     a:hover{
         border:1px solid green;  
        }
-       selector {
+    body {
         color: white;
     }
