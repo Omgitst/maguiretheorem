@@ -3,7 +3,7 @@ body{
     body:hover{
         border:1px solid green;  
        }
-    p{
+    body{
         color: rgb(255, 255, 255);
     }
 }
