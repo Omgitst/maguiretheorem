@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    a:hover{
+    body:hover{
         border:1px solid green;  
        }
     body {
